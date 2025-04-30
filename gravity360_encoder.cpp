@@ -1,3 +1,5 @@
+// The implementation file handles hardware communication and logic
+
 #include "gravity360_encoder.h"
 
 namespace esphome {
